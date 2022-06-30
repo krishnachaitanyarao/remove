@@ -1,0 +1,9 @@
+---
+title: "Gallery of Featured Posts"
+listing:
+  posts:
+    - 2022-06-28-Welcome-to-My-Blog123
+    
+---
+
+

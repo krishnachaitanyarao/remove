@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Data Analytics and Computational Social Science</title>
+    <link>https://thogarusathvik.github.io/remove/</link>
+    <atom:link href="https://thogarusathvik.github.io/remove/index.xml" rel="self" type="application/rss+xml"/>
+    <description>site yml description here
+</description>
+    <image>
+      <title>Data Analytics and Computational Social Science</title>
+      <url>https://thogarusathvik.github.io/remove/Images/614660.jpg</url>
+      <link>https://thogarusathvik.github.io/remove/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to My Blog123</title>
+      <dc:creator>Sathvik</dc:creator>
+      <link>https://thogarusathvik.github.io/remove/posts/welcome - Copy</link>
+      <description>Welcome to our new blog, My Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <category>portfolios</category>
+      <category>dygraphs</category>
+      <guid>https://thogarusathvik.github.io/remove/posts/welcome - Copy</guid>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://thogarusathvik.github.io/remove/posts/welcome - Copy/welcome-2_files/figure-html5/pressure-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to My Blog</title>
+      <dc:creator>Sathvik</dc:creator>
+      <link>https://thogarusathvik.github.io/remove/posts/welcome</link>
+      <description>Welcome to our new blog, My Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://thogarusathvik.github.io/remove/posts/welcome</guid>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

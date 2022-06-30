@@ -1,5 +1,6 @@
 ---
-title: "My Blog"
+title: "Student Submissions"
 site: distill::distill_website
 listing: posts
 ---
+

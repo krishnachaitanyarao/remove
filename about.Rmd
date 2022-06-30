@@ -1,7 +1,17 @@
 ---
-title: "About this blog"
+title: "About title here"
+image: "Images/614660.jpg"
 description: |
-  Some additional details about the blog
+  about description here 
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sathvikthogaru/"
+  - label: Facebook
+    url: "https://www.facebook.com/login/"
+  - label: GitHub
+    url: "https://github.com/ThogaruSathvik/remove"
+output:
+  postcards::jolla
 ---
 
 ```{r setup, include=FALSE}

@@ -2,18 +2,33 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "About title here",
+      "description": "about description here \n",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          Data Analytics and Computational Social Science\r\n          \r\n          \r\n          \r\n          \r\n          Menu\r\n           \r\n          ▾\r\n          \r\n          \r\n          Home\r\n          About\r\n          Gallery\r\n          Contributors\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            About title here\r\n          \r\n          \r\n            \r\n              \r\n            \r\n            \r\n              \r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Facebook\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Facebook\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-06-29T14:49:04-04:00"
+    },
+    {
+      "path": "contributors.html",
+      "title": "Contributors title ",
+      "description": "Contributors description here",
+      "author": [],
+      "contents": "\r\nAbhinavSathvik\r\nKrishna\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-29T14:49:05-04:00"
+    },
+    {
+      "path": "gallery.html",
+      "title": "Gallery of Featured Posts",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-28T16:44:28-04:00"
+      "last_modified": "2022-06-29T14:49:06-04:00"
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Student Submissions",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-28T16:44:29-04:00"
+      "last_modified": "2022-06-29T14:49:07-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
